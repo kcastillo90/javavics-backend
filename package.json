@@ -1,0 +1,22 @@
+{
+  "name": "javavics-backend",
+  "version": "1.0.0",
+  "description": "Backend for JavaVic's coffee blog",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kcastillo90/javavics-backend.git"
+  },
+  "author": "Kyle Castillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kcastillo90/javavics-backend/issues"
+  },
+  "homepage": "https://github.com/kcastillo90/javavics-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
